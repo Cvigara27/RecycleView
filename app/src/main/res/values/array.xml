@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mobiles">
+        <item>Samsung</item>
+        <item>Lenevo</item>
+        <item>Karbon</item>
+        <item>Moto</item>
+        <item>Xperia</item>
+        <item>Micromax</item>
+        <item>Lava</item>
+        <item>Xiaomi</item>
+        <item>Samsung</item>
+        <item>Lenevo</item>
+        <item>Karbon</item>
+        <item>Moto</item>
+        <item>Xperia</item>
+        <item>Micromax</item>
+        <item>Lava</item>
+        <item>Xiaomi</item>
+        <item>Samsung</item>
+        <item>Lenevo</item>
+        <item>Karbon</item>
+        <item>Moto</item>
+        <item>Xperia</item>
+        <item>Micromax</item>
+        <item>Lava</item>
+        <item>Xiaomi</item>
+        <item>Samsung</item>
+        <item>Lenevo</item>
+        <item>Karbon</item>
+        <item>Moto</item>
+        <item>Xperia</item>
+        <item>Micromax</item>
+        <item>Lava</item>
+        <item>Xiaomi</item>
+    </string-array>
+</resources>
